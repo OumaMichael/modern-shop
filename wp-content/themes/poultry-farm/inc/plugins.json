@@ -1,0 +1,12 @@
+[{
+  "name": "Ultimate Post Kit",
+  "slug": "ultimate-post-kit",
+  "required": false,
+  "force_activation": false
+}, {
+  "name": "Elementor",
+  "slug": "elementor",
+  "required": false,
+  "force_activation": false
+}
+]
